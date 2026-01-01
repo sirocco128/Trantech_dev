@@ -1,10 +1,10 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
+**/config/development
+**/logs/log-*.php
+!**/logs/index.html
+**/cache/*
 !system/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
+!**/cache/index.html
+!**/cache/.htaccess
 
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
